@@ -108,3 +108,4 @@ Sent batch of 2 (deduplicated) messages
 ```
 
 After that you can check you transaction in the explorer
+![image](https://raw.githubusercontent.com/vanzzdark/interchain-queries/main/striderelayer2icq.PNG)
